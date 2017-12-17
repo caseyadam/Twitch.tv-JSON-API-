@@ -1,0 +1,36 @@
+body {
+    background-image:   url("https://static1.squarespace.com/static/587acf0b59cc68c821b21f54/t/587b1e031b631b453a3c8db1/1484463621303/twitch+logo+background.jpg?format=1500w");
+  background-repeat: repeat-x;
+  background-color: purple;
+  font-family: 'Droid Serif', serif;
+  font-size: 14px;
+  color: white;
+}
+
+.row {
+  background-color:black;
+  opacity:0.75;
+  color:white;
+  width:75%;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:15px;
+  font-size:1.5em;
+  padding-bottom:2%;
+}
+
+a{
+  color:white;
+}
+
+#header {
+  background-color:black;
+  opacity:0.75;
+  color:white;
+  width:75%;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:15px;
+  font-size:1.5em;
+  padding-bottom:2%;
+}
